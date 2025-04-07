@@ -24,11 +24,22 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RocketMan05-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=RocketMan05-2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketMan05-2002&layout=compact&theme=tokyonight" height="170" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RocketMan05-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=RocketMan05-2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocketMan05-2002&layout=compact&theme=tokyonight" height="170" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ### ⚒️ Tech Stack (aka Weapons of Mass Compilation)
