@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Fanatic+👨‍💻;Meme-Driven+Dev+😆;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Fanatic+👨‍💻;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
 </p>
 
 ---
