@@ -80,10 +80,10 @@
 
 ---
 
-### 😂 Just a few lines of code humor to leave you smiling:
+### Just a few lines of code humor to leave you smiling:
 
 > Why did the React developer break up with HTML?  
-> Because they couldn’t handle the **div**-ersity. 💔
+> Because they couldn’t handle the **div**-ersity.
 
 > Why don’t programmers like nature?  
 > Too many **bugs**. 🐛
