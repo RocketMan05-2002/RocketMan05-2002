@@ -65,7 +65,7 @@
 ### 🐍 Watch this snake eat my contributions! 🍽️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/RocketMan05-2002/RocketMan05-2002/output/snake.svg" alt="snake gif" />
 </p>
 
 ---
