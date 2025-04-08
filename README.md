@@ -42,7 +42,7 @@
 </div>
 ---
 
-### ⚒️ Tech Stack (aka Weapons of Mass Compilation)
+### ⚒️ Tech Stack (aka Weapons)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
@@ -53,13 +53,16 @@
 ### 🎮 When I’m Not Coding...
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" height="200" alt="Gaming GIF" />
+  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" height="200" alt="Gym GIF" />
   <p>You'll find me playing football, gymming, doodling comics, or binging memes 🤓</p>
 </div>
 
+
+
+
 ---
 
-### 🔗 Let's Get Social (No, not the Data Structures one 😅)
+### 🔗 Let's Get Social
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
