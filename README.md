@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Fanatic+👨‍💻;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
+  
 </p>
 
 ---
