@@ -43,7 +43,7 @@
 </div>
 ---
 
-###  Tech Stack (aka Weapons)
+###  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
