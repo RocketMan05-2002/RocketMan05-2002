@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Abhinay 🚀(Rocketman)</h1>
+<h1 align="center">Hey there! 👋 I'm Abhinay 🚀 (Rocketman)</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 ---
 
-###  When I’m Not Coding...
+###  When I’m Not Coding..
 
 <div align="center">
   <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" height="200" alt="Gym GIF" />
@@ -76,7 +76,7 @@
 
 ---
 
-### 🐍 Watch this snake eat my contributions! 🍽️
+### 🐍 Watch this snake eat my contributions!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RocketMan05-2002/RocketMan05-2002/output/snake.svg" alt="snake gif" />
