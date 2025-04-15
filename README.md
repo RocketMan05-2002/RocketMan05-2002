@@ -13,16 +13,6 @@
 
 ---
 
-###  About Me
-
-- 🔭 I’m currently working on **cool frontend stuff**  
-- 🌱 Learning **Redux and still surviving**  
-- 💬 Ask me about React, JS, CSS, or why my console has more errors than your math exam
-- 🎯 Fun Fact: My code works… as long as no one touches it
-- ⚡ Favorite Dev Quote: *“But It worked on my machine :((”*  
-
----
-
 <div align="center">
   <table>
     <tr>
