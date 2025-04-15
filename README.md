@@ -6,9 +6,12 @@
 </p>
 
 ---
+###  Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="Coding GIF">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
+  <br/><br/>
+  <pre>Javascript, React, Redux Toolkit, HTML5, CSS3, C, C++, Git, Github, Tailwind, Vercel, Typescript</pre>
 </div>
 
 ---
@@ -30,27 +33,6 @@
     </tr>
   </table>
 </div>
----
-
-###  Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
-</div>
-
----
-
-###  When I’m Not Coding..
-
-<div align="center">
-  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" height="200" alt="Gym GIF" />
-  <p>You'll find me playing football, gymming, doodling comics, or binging memes 🤓</p>
-</div>
-
-
-
-
----
 
 ### Let's Connect
 
@@ -72,6 +54,12 @@
 </p>
 
 ---
+###  When I’m Not Coding..
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" height="200" alt="Gym GIF" />
+  <p>You'll find me playing football, gymming, doodling comics, or binging memes 🤓</p>
+</div>
 
 ### Just a few lines of code humor to leave you smiling:
 
