@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Abhinay 🚀 (Rocketman).</h1>
+<h1 align="center">Hey there! I'm Abhinay 🚀 (Rocketman)</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
 
 <p align="center">
