@@ -53,14 +53,6 @@
   <img src="https://raw.githubusercontent.com/RocketMan05-2002/RocketMan05-2002/output/snake.svg" alt="snake gif" />
 </p>
 
----
-###  When I’m Not Coding..
-
-<div align="center">
-  <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" height="200" alt="Gym GIF" />
-  <p>You'll find me playing football, gymming, doodling comics, or binging memes 🤓</p>
-</div>
-
 ### Just a few lines of code humor to leave you smiling:
 
 > Why did the React developer break up with HTML?  
