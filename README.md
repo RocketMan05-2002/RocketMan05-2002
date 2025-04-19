@@ -44,26 +44,3 @@
   <a href="#"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhinay-shambharkar-813666193/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-### 🐍 Watch this snake eat my contributions!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RocketMan05-2002/RocketMan05-2002/output/snake.svg" alt="snake gif" />
-</p>
-
-### Just a few lines of code humor to leave you smiling:
-
-> Why did the React developer break up with HTML?  
-> Because they couldn’t handle the **div**-ersity.
-
-> Why don’t programmers like nature?  
-> Too many **bugs**. 🐛
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" height="200" />
-  <p><strong>Thanks for scrolling! You’ve earned a virtual cookie 🍪</strong></p>
-</div>
