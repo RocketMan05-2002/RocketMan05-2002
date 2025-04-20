@@ -14,7 +14,6 @@
   <pre>Javascript, React, Redux Toolkit, HTML5, CSS3, C, C++, Git, Github, Tailwind, Vercel, Typescript</pre>
 </div>
 
----
 
 <div align="center">
   <table>
