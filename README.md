@@ -6,7 +6,7 @@
 </p>
 
 ---
-###  Tech Stack
+###  Tech Stack:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
@@ -33,7 +33,7 @@
   </table>
 </div>
 
-### Let's Connect
+### Let's Connect:
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
