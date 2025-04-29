@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
-  <br/><br/><br/>
+  <br/><br/>
   <pre>Javascript, React, Redux Toolkit, HTML5, CSS3, C, C++, Git, Github, Tailwind, Vercel, Typescript.</pre>
 </div>
 
