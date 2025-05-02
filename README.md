@@ -6,7 +6,7 @@
 </p>
 
 ---
-###  Tech Stack
+###  Tech Stack -
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
@@ -33,7 +33,7 @@
   </table>
 </div>
 
-### Let's Connect
+### Let's Connect -
 ---
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -43,3 +43,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhinay-shambharkar-813666193/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
