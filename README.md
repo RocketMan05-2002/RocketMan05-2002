@@ -1,5 +1,6 @@
-<h1 align="center">-Hey there! I'm Abhinay 🚀 (Rocketman)-</h1>
+<h1 align="center">-Hey there! I'm Abhinay 🚀 (Rocketman)- </h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RocketMan05-2002&label=Views&color=blue&style=plastic" alt="RocketMan05-2002" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=435&lines=Frontend+Fanatic+👨‍💻;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
