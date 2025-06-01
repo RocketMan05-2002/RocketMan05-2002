@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Abhinay 🚀 (Rocketman). </h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
-<p align="center">---------</p>
+<!-- <p align="center">---------</p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RocketMan05-2002&label=Views&color=blue&style=plastic" alt="RocketMan05-2002" /> </p>
 
 <p align="center">
