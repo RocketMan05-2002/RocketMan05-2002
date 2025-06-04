@@ -1,6 +1,4 @@
-<h1 align="center">Hey there! I'm Abhinay 🚀 (Rocketman). </h1>
-<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
-<p align="center">---------</p>
+<pre align="center"> Hi. I'm Abhinay (Rocketman) | Full Stack Developer. </pre>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RocketMan05-2002&label=Views&color=blue&style=plastic" alt="RocketMan05-2002" /> </p>
 
 <p align="center">
@@ -11,9 +9,9 @@
 ###  Tech Stack -
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,redux,html,css,c,cpp,git,github,tailwind,vercel,ts" />
   <br/><br/>
-  <pre>Javascript, React, Redux Toolkit, HTML5, CSS3, C, C++, Git, Github, Tailwind, Vercel, Typescript.</pre>
+  <pre>Javascript, React, Node, Redux Toolkit, HTML5, CSS3, C, C++, Git, Github, Tailwind, Vercel, Typescript.</pre>
 </div>
 
 
