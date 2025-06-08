@@ -9,9 +9,10 @@
 ###  Tech Stack -
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,cpp,expressjs,redux,git,github,tailwind,vercel,ts" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,cpp,expressjs,mongodb,postman,redux,git,github,tailwind,vercel,ts" />
   <br/><br/>
-  <pre>Javascript, React, Node, HTML5, CSS3, C++, Express, Redux Toolkit, Git, Github, Tailwind, Vercel, Typescript.</pre>
+  <pre>Javascript, React, Node, HTML5, CSS3, C++, Express, MongoDB, Postman, 
+    Redux Toolkit, Git, Github, Tailwind, Vercel, Typescript.</pre>
 </div>
 
 
