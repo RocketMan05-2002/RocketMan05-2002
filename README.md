@@ -4,13 +4,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=435&lines=Frontend+Fanatic+👨‍💻;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
 </p>
-###  Tech Stack -
+Tech Stack -
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,cpp,expressjs,mongodb,postman,redux,git,github,tailwind,vercel,ts" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,html,css,cpp,mongodb,postman,redux,git,mysql,tailwind,vercel,ts" />
   <br/><br/>
-  <pre>Javascript, React, Node, HTML5, CSS3, C++, Express, MongoDB, Postman, 
-    Redux Toolkit, Git, Github, Tailwind, Vercel, Typescript.</pre>
+  <pre>Javascript, React, Node.js, Express.js, HTML5, CSS3, C++, MongoDB, Postman, 
+    Redux Toolkit, Git, MySQL, Tailwind, Vercel, Typescript.</pre>
 </div>
 
 
