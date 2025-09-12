@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RocketMan05-2002&label=Views&color=blue&style=plastic" alt="Views" /> </p>
 <!-- <p align="center">-------</p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=435&lines=Frontend+Fanatic+👨‍💻;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=435&lines=Fullstack+Fanatic+👨‍💻;Code.+Pray.+Repeat.+✝️;React-ing+to+Everything+⚛️;Debugger+by+day%2C+Dreamer+by+night+🌙" alt="Typing SVG" />
 </p>
 Tech Stack -
 
