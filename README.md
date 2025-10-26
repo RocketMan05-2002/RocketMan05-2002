@@ -7,10 +7,10 @@
 Tech Stack -
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,spring,html,css,cpp,mongodb,postman,redux,git,mysql,tailwind,vercel,ts" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,spring,html,css,cpp,mongodb,postman,redux,git,mysql,tailwind" />
   <br/><br/>
   <pre>Javascript, React, Node.js, Express.js, Java, Spring Boot, HTML5, CSS3, C++, MongoDB, Postman, 
-    Redux Toolkit, Git, MySQL, Tailwind, Vercel, Typescript.</pre>
+    Redux Toolkit, Git, MySQL, Tailwind.</pre>
 </div>
 
 
