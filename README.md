@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-💻 Full Stack Developer with **1+ year experience (Paytm)**  
+💻 Full Stack Developer with **1+ year experience (Amura Health, Ex- Paytm)**  
 ⚡ I build **real-world, scalable products** — not just projects  
 🎯 Focused on **Frontend Excellence + Backend Systems + UX**  
 ✝️ Faith-driven | Discipline | Consistency  
